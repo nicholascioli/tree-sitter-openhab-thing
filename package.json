@@ -49,7 +49,7 @@
       "scope": "source.things",
       "file-types": ["things"],
       "highlights": ["queries/highlights.scm"],
-      "injection-regex": "^(oh_things|things)$"
+      "injection-regex": "^(oh-things|things)$"
     }
   ],
   "eslintConfig": {
