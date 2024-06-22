@@ -1,0 +1,11 @@
+==================
+Thing definitions
+==================
+
+Thing network:device:webcam "Webcam" @ "Living Room" [ hostname="192.168.0.2", timeout="5000", ... ]
+Thing astro:moon:home [ geolocation="50.12345,10.98765", interval=300 ]
+Thing ntp:ntp:local [ hostname="de.pool.ntp.org" ]
+
+---
+
+(source_file)

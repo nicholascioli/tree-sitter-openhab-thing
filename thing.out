@@ -1,0 +1,260 @@
+(source_file [0, 0] - [109, 0]
+  (comment [0, 0] - [0, 32])
+  (bridge [1, 0] - [108, 1]
+    (unique_identifier [1, 7] - [1, 37]
+      binding: (identifier [1, 7] - [1, 13])
+      variant: (identifier [1, 14] - [1, 31])
+      name: (identifier [1, 32] - [1, 37]))
+    label: (string [1, 38] - [1, 68])
+    (parameter_block [1, 69] - [18, 1]
+      (comment [2, 4] - [2, 23])
+      (parameter [3, 4] - [3, 30]
+        property: (identifier [3, 4] - [3, 15])
+        value: (string [3, 16] - [3, 30]))
+      (comment [3, 39] - [3, 114])
+      (parameter [4, 4] - [4, 22]
+        property: (identifier [4, 4] - [4, 15])
+        value: (literal [4, 16] - [4, 22]))
+      (comment [4, 39] - [4, 72])
+      (parameter [5, 4] - [5, 24]
+        property: (identifier [5, 4] - [5, 22])
+        value: (literal [5, 23] - [5, 24]))
+      (comment [5, 39] - [5, 72])
+      (parameter [6, 4] - [6, 30]
+        property: (identifier [6, 4] - [6, 23])
+        value: (literal [6, 24] - [6, 30]))
+      (comment [6, 39] - [6, 97])
+      (parameter [7, 4] - [7, 25]
+        property: (identifier [7, 4] - [7, 23])
+        value: (literal [7, 24] - [7, 25]))
+      (comment [7, 39] - [7, 80])
+      (parameter [8, 4] - [8, 33]
+        property: (identifier [8, 4] - [8, 27])
+        value: (literal [8, 28] - [8, 33]))
+      (comment [8, 39] - [8, 78])
+      (comment [10, 4] - [10, 38])
+      (parameter [11, 4] - [11, 22]
+        property: (identifier [11, 4] - [11, 16])
+        value: (literal [11, 17] - [11, 22]))
+      (parameter [12, 4] - [12, 43]
+        property: (identifier [12, 4] - [12, 24])
+        value: (string [12, 25] - [12, 43]))
+      (parameter [13, 4] - [13, 71]
+        property: (identifier [13, 4] - [13, 21])
+        value: (string [13, 22] - [13, 71]))
+      (comment [15, 4] - [15, 21])
+      (parameter [16, 4] - [16, 22]
+        property: (identifier [16, 4] - [16, 20])
+        value: (literal [16, 21] - [16, 22]))
+      (parameter [17, 4] - [17, 20]
+        property: (identifier [17, 4] - [17, 18])
+        value: (literal [17, 19] - [17, 20])))
+    (thing_block [18, 2] - [108, 1]
+      (comment [19, 4] - [19, 124])
+      (comment [20, 4] - [20, 48])
+      (comment [21, 4] - [21, 49])
+      (comment [22, 4] - [22, 57])
+      (comment [23, 4] - [23, 58])
+      (comment [24, 4] - [24, 58])
+      (comment [25, 4] - [25, 58])
+      (comment [26, 4] - [26, 6])
+      (comment [27, 4] - [27, 6])
+      (comment [28, 4] - [28, 124])
+      (thing [30, 4] - [32, 5]
+        (unique_identifier [30, 10] - [30, 35]
+          binding: (identifier [30, 10] - [30, 16])
+          variant: (identifier [30, 17] - [30, 23])
+          name: (identifier [30, 24] - [30, 35]))
+        label: (string [30, 36] - [30, 49])
+        location: (string [30, 52] - [30, 61])
+        (parameter_block [30, 62] - [32, 5]
+          (parameter [31, 8] - [31, 44]
+            property: (identifier [31, 8] - [31, 25])
+            value: (string [31, 26] - [31, 44]))))
+      (thing [34, 4] - [36, 5]
+        (unique_identifier [34, 10] - [34, 47]
+          binding: (identifier [34, 10] - [34, 16])
+          variant: (identifier [34, 17] - [34, 23])
+          name: (identifier [34, 24] - [34, 47]))
+        label: (string [34, 48] - [34, 65])
+        location: (string [34, 68] - [34, 77])
+        (parameter_block [34, 78] - [36, 5]
+          (parameter [35, 8] - [35, 44]
+            property: (identifier [35, 8] - [35, 25])
+            value: (string [35, 26] - [35, 44]))))
+      (thing [37, 4] - [39, 5]
+        (unique_identifier [37, 10] - [37, 48]
+          binding: (identifier [37, 10] - [37, 16])
+          variant: (identifier [37, 17] - [37, 23])
+          name: (identifier [37, 24] - [37, 48]))
+        label: (string [37, 49] - [37, 67])
+        location: (string [37, 70] - [37, 79])
+        (parameter_block [37, 80] - [39, 5]
+          (parameter [38, 8] - [38, 44]
+            property: (identifier [38, 8] - [38, 25])
+            value: (string [38, 26] - [38, 44]))))
+      (thing [41, 4] - [43, 5]
+        (unique_identifier [41, 10] - [41, 53]
+          binding: (identifier [41, 10] - [41, 16])
+          variant: (identifier [41, 17] - [41, 23])
+          name: (identifier [41, 24] - [41, 53]))
+        label: (string [41, 54] - [41, 85])
+        location: (string [41, 88] - [41, 103])
+        (parameter_block [41, 104] - [43, 5]
+          (parameter [42, 8] - [42, 44]
+            property: (identifier [42, 8] - [42, 25])
+            value: (string [42, 26] - [42, 44]))))
+      (thing [45, 4] - [47, 5]
+        (unique_identifier [45, 10] - [45, 36]
+          binding: (identifier [45, 10] - [45, 16])
+          variant: (identifier [45, 17] - [45, 23])
+          name: (identifier [45, 24] - [45, 36]))
+        label: (string [45, 37] - [45, 51])
+        location: (string [45, 54] - [45, 59])
+        (parameter_block [45, 60] - [47, 5]
+          (parameter [46, 8] - [46, 44]
+            property: (identifier [46, 8] - [46, 25])
+            value: (string [46, 26] - [46, 44]))))
+      (thing [49, 4] - [51, 5]
+        (unique_identifier [49, 10] - [49, 40]
+          binding: (identifier [49, 10] - [49, 16])
+          variant: (identifier [49, 17] - [49, 23])
+          name: (identifier [49, 24] - [49, 40]))
+        label: (string [49, 41] - [49, 59])
+        location: (string [49, 62] - [49, 67])
+        (parameter_block [49, 68] - [51, 5]
+          (parameter [50, 8] - [50, 44]
+            property: (identifier [50, 8] - [50, 25])
+            value: (string [50, 26] - [50, 44]))))
+      (thing [53, 4] - [55, 5]
+        (unique_identifier [53, 10] - [53, 34]
+          binding: (identifier [53, 10] - [53, 16])
+          variant: (identifier [53, 17] - [53, 23])
+          name: (identifier [53, 24] - [53, 34]))
+        label: (string [53, 35] - [53, 66])
+        location: (string [53, 69] - [53, 74])
+        (parameter_block [53, 75] - [55, 5]
+          (parameter [54, 8] - [54, 44]
+            property: (identifier [54, 8] - [54, 25])
+            value: (string [54, 26] - [54, 44]))))
+      (comment [57, 4] - [57, 124])
+      (comment [58, 4] - [58, 6])
+      (comment [59, 4] - [59, 35])
+      (comment [60, 4] - [60, 35])
+      (comment [61, 4] - [61, 43])
+      (comment [62, 4] - [62, 44])
+      (comment [63, 4] - [63, 44])
+      (comment [64, 4] - [64, 44])
+      (comment [65, 4] - [65, 16])
+      (comment [66, 4] - [66, 16])
+      (comment [67, 4] - [67, 124])
+      (thing [69, 4] - [71, 5]
+        (unique_identifier [69, 10] - [69, 41]
+          binding: (identifier [69, 10] - [69, 16])
+          variant: (identifier [69, 17] - [69, 23])
+          name: (identifier [69, 24] - [69, 41]))
+        label: (string [69, 42] - [69, 61])
+        location: (string [69, 64] - [69, 77])
+        (parameter_block [69, 78] - [71, 5]
+          (parameter [70, 8] - [70, 44]
+            property: (identifier [70, 8] - [70, 25])
+            value: (string [70, 26] - [70, 44]))))
+      (thing [73, 4] - [75, 5]
+        (unique_identifier [73, 10] - [73, 41]
+          binding: (identifier [73, 10] - [73, 16])
+          variant: (identifier [73, 17] - [73, 23])
+          name: (identifier [73, 24] - [73, 41]))
+        label: (string [73, 42] - [73, 61])
+        location: (string [73, 64] - [73, 74])
+        (parameter_block [73, 75] - [75, 5]
+          (parameter [74, 8] - [74, 44]
+            property: (identifier [74, 8] - [74, 25])
+            value: (string [74, 26] - [74, 44]))))
+      (thing [77, 4] - [79, 5]
+        (unique_identifier [77, 10] - [77, 39]
+          binding: (identifier [77, 10] - [77, 16])
+          variant: (identifier [77, 17] - [77, 23])
+          name: (identifier [77, 24] - [77, 39]))
+        label: (string [77, 40] - [77, 71])
+        location: (string [77, 74] - [77, 84])
+        (parameter_block [77, 85] - [79, 5]
+          (parameter [78, 8] - [78, 44]
+            property: (identifier [78, 8] - [78, 25])
+            value: (string [78, 26] - [78, 44]))))
+      (thing [81, 4] - [83, 5]
+        (unique_identifier [81, 10] - [81, 40]
+          binding: (identifier [81, 10] - [81, 16])
+          variant: (identifier [81, 17] - [81, 23])
+          name: (identifier [81, 24] - [81, 40]))
+        label: (string [81, 41] - [81, 59])
+        location: (string [81, 62] - [81, 71])
+        (parameter_block [81, 72] - [83, 5]
+          (parameter [82, 8] - [82, 44]
+            property: (identifier [82, 8] - [82, 25])
+            value: (string [82, 26] - [82, 44]))))
+      (thing [85, 4] - [87, 5]
+        (unique_identifier [85, 10] - [85, 38]
+          binding: (identifier [85, 10] - [85, 16])
+          variant: (identifier [85, 17] - [85, 23])
+          name: (identifier [85, 24] - [85, 38]))
+        label: (string [85, 39] - [85, 70])
+        location: (string [85, 73] - [85, 82])
+        (parameter_block [85, 83] - [87, 5]
+          (parameter [86, 8] - [86, 44]
+            property: (identifier [86, 8] - [86, 25])
+            value: (string [86, 26] - [86, 44]))))
+      (thing [89, 4] - [91, 5]
+        (unique_identifier [89, 10] - [89, 41]
+          binding: (identifier [89, 10] - [89, 16])
+          variant: (identifier [89, 17] - [89, 23])
+          name: (identifier [89, 24] - [89, 41]))
+        label: (string [89, 42] - [89, 61])
+        location: (string [89, 64] - [89, 77])
+        (parameter_block [89, 78] - [91, 5]
+          (parameter [90, 8] - [90, 44]
+            property: (identifier [90, 8] - [90, 25])
+            value: (string [90, 26] - [90, 44]))))
+      (thing [93, 4] - [95, 5]
+        (unique_identifier [93, 10] - [93, 41]
+          binding: (identifier [93, 10] - [93, 16])
+          variant: (identifier [93, 17] - [93, 23])
+          name: (identifier [93, 24] - [93, 41]))
+        label: (string [93, 42] - [93, 61])
+        location: (string [93, 64] - [93, 77])
+        (parameter_block [93, 78] - [95, 5]
+          (parameter [94, 8] - [94, 44]
+            property: (identifier [94, 8] - [94, 25])
+            value: (string [94, 26] - [94, 44]))))
+      (thing [97, 4] - [99, 5]
+        (unique_identifier [97, 10] - [97, 42]
+          binding: (identifier [97, 10] - [97, 16])
+          variant: (identifier [97, 17] - [97, 23])
+          name: (identifier [97, 24] - [97, 42]))
+        label: (string [97, 43] - [97, 63])
+        location: (string [97, 66] - [97, 79])
+        (parameter_block [97, 80] - [99, 5]
+          (parameter [98, 8] - [98, 44]
+            property: (identifier [98, 8] - [98, 25])
+            value: (string [98, 26] - [98, 44]))))
+      (thing [101, 4] - [103, 5]
+        (unique_identifier [101, 10] - [101, 37]
+          binding: (identifier [101, 10] - [101, 16])
+          variant: (identifier [101, 17] - [101, 23])
+          name: (identifier [101, 24] - [101, 37]))
+        label: (string [101, 38] - [101, 53])
+        location: (string [101, 56] - [101, 69])
+        (parameter_block [101, 70] - [103, 5]
+          (parameter [102, 8] - [102, 44]
+            property: (identifier [102, 8] - [102, 25])
+            value: (string [102, 26] - [102, 44]))))
+      (thing [105, 4] - [107, 5]
+        (unique_identifier [105, 10] - [105, 37]
+          binding: (identifier [105, 10] - [105, 16])
+          variant: (identifier [105, 17] - [105, 23])
+          name: (identifier [105, 24] - [105, 37]))
+        label: (string [105, 38] - [105, 69])
+        location: (string [105, 72] - [105, 85])
+        (parameter_block [105, 86] - [107, 5]
+          (parameter [106, 8] - [106, 44]
+            property: (identifier [106, 8] - [106, 25])
+            value: (string [106, 26] - [106, 44])))))))
