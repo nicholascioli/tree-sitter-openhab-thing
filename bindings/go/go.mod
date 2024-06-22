@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-OpenHAB
+module github.com/tree-sitter/tree-sitter-oh_things
 
 go 1.22
 

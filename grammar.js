@@ -1,5 +1,5 @@
 module.exports = grammar({
-  name: "oh-thing",
+  name: "oh_things",
 
   extras: ($) => [$.comment, /[\s\p{Zs}\uFEFF\u2028\u2029\u2060\u200B]/],
   word: ($) => $.identifier,

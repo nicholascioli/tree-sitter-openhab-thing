@@ -1,15 +1,15 @@
-package tree_sitter_OpenHAB_test
+package tree_sitter_oh_things_test
 
 import (
 	"testing"
 
 	tree_sitter "github.com/smacker/go-tree-sitter"
-	"github.com/tree-sitter/tree-sitter-OpenHAB"
+	"github.com/tree-sitter/tree-sitter-oh_things"
 )
 
 func TestCanLoadGrammar(t *testing.T) {
-	language := tree_sitter.NewLanguage(tree_sitter_OpenHAB.Language())
+	language := tree_sitter.NewLanguage(tree_sitter_oh_things.Language())
 	if language == nil {
-		t.Errorf("Error loading OpenHab grammar")
+		t.Errorf("Error loading OhThings grammar")
 	}
 }

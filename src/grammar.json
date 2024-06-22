@@ -1,5 +1,5 @@
 {
-  "name": "openhab_thing",
+  "name": "oh_things",
   "word": "identifier",
   "rules": {
     "source_file": {

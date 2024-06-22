@@ -1,4 +1,4 @@
-"OpenHab grammar for tree-sitter"
+"OhThings grammar for tree-sitter"
 
 from ._binding import language
 
